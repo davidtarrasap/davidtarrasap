@@ -66,14 +66,6 @@ Proyecto desarrollado en el Datathon ICAI–Endesa.
 
 ---
 
-### 📊 Mis estadísticas en GitHub
-
-![David Tarrasa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidTarrasa&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTarrasa&layout=compact&theme=radical)
-
----
-
 ### 🛠️ Lenguajes y herramientas con las que he trabajado
 
 <p>
